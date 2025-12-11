@@ -10,7 +10,7 @@ This project contains an interactive Excel dashboard built to analyze property p
 
 ## Tool used :
 ---
-![property_price_analysis]
+![property_price_analysis](https://github.com/Harshad820/property_price_analysis/blob/main/dashboard.png)
 
 ## Result and Insights :
 --- 
@@ -30,4 +30,4 @@ Over the years, prices dipped slightly but eventually recovered, showing market 
 
 ## Dashboard :
 ---
-![property_price_analysis]
+![property_price_analysis](https://github.com/Harshad820/property_price_analysis/blob/main/dashboard.png)
