@@ -10,7 +10,7 @@ This project contains an interactive Excel dashboard built to analyze property p
 
 ## Tool used :
 ---
-![property_price_analysis](https://github.com/Harshad820/property_price_analysis/blob/main/dashboard.png)
+![property_price_analysis](https://github.com/Harshad820/property_price_analysis/blob/main/photo/microsoft-excel.png)
 
 ## Result and Insights :
 --- 
